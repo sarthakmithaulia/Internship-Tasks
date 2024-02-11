@@ -1,0 +1,20 @@
+{
+    "name": "Accounts0xSplits",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xf8843981e7846945960f53243ca2fd42a579f719",
+            "Name_tag": "0xSplits: Donate"
+        },
+        {
+            "Address": "0x2ed6c4b5da6378c7897ac67ba9e43102feb694ee",
+            "Name_tag": "0xSplits: Split Main"
+        },
+        {
+            "Address": "0xd94c0ce4f8eefa4ebf44bf6665688edeef213b33",
+            "Name_tag": "0xSplits: Split Wallet"
+        }
+    ]
+}

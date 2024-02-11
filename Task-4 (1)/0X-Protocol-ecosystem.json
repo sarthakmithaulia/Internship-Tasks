@@ -1,0 +1,56 @@
+{
+    "name": "Accounts0x Protocol Ecosystem",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x0e8ba001a821f3ce0734763d008c9d7c957f5852",
+            "Name_tag": "AmadeusRelay"
+        },
+        {
+            "Address": "0xc898fbee1cc94c0ff077faa5449915a506eff384",
+            "Name_tag": "Bamboo Relay"
+        },
+        {
+            "Address": "0x58a5959a6c528c5d5e03f7b9e5102350e24005f1",
+            "Name_tag": "ERC dEX"
+        },
+        {
+            "Address": "0x2cc42d1cd65af27cc999e41ef93d1a763dc821f8",
+            "Name_tag": "IDT Exchange"
+        },
+        {
+            "Address": "0x4524baa98f9a3b9dec57caae7633936ef96bd708",
+            "Name_tag": "LedgerDex"
+        },
+        {
+            "Address": "0xc22d5b2951db72b44cfb8089bb8cd374a3c354ea",
+            "Name_tag": "OpenRelay"
+        },
+        {
+            "Address": "0xd2045edc40199019e221d71c0913343f7908d0d5",
+            "Name_tag": "Paradex"
+        },
+        {
+            "Address": "0xa258b39954cef5cb142fd567a46cddb31a670124",
+            "Name_tag": "Radar Relay"
+        },
+        {
+            "Address": "0x55890b06f0877a01bb5349d93b202961f8e27a9b",
+            "Name_tag": "Shark Relay"
+        },
+        {
+            "Address": "0x0681e844593a051e2882ec897ecd5444efe19ff2",
+            "Name_tag": "Star Bit Ex"
+        },
+        {
+            "Address": "0x7219612be7036d1bfa933e16ca1246008f38c5fe",
+            "Name_tag": "The Ocean"
+        },
+        {
+            "Address": "0x5e150a33ffa97a8d22f59c77ae5487b089ef62e9",
+            "Name_tag": "TokenJar"
+        }
+    ]
+}

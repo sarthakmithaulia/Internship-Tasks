@@ -1,0 +1,32 @@
+{
+    "name": "Accounts0xUniverse",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xe73480759efb6731d133b382ab8df02774e3a265",
+            "Name_tag": "0xUniverse: Contract 1"
+        },
+        {
+            "Address": "0xf91d60c576fc809bea7a08d45ee3d6d77fbf5ff7",
+            "Name_tag": "0xUniverse: Contract 2"
+        },
+        {
+            "Address": "0xe658e6eb4b478da2cf36d9e3712ba0c1b33786a1",
+            "Name_tag": "0xUniverse: Contract 3"
+        },
+        {
+            "Address": "0x06a6a7af298129e3a2ab396c9c06f91d3c54aba8",
+            "Name_tag": "0xUniverse: PLANET Token"
+        },
+        {
+            "Address": "0xa36a81e47d032cb5608175cf884d079ff7b2fb42",
+            "Name_tag": "0xUniverse: Wallet 1"
+        },
+        {
+            "Address": "0x28fbe46d43ae10f0afe84e393368b891a3de98ea",
+            "Name_tag": "0xUniverse: Wallet 2"
+        }
+    ]
+}

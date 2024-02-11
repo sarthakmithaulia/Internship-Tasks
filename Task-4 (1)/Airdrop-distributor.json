@@ -1,0 +1,84 @@
+{
+    "name": "AccountsAirdrop / Distributor",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x0345f8208f90f65a8430a8f77c614a9a4ab7ede0",
+            "Name_tag": "AdsByWiFi: WADS Airdrop"
+        },
+        {
+            "Address": "0x6631625a68b08e0fdf605c354ff0e710a0176c84",
+            "Name_tag": "AfroDex: CrowdSend"
+        },
+        {
+            "Address": "0x617c69250f678215f39ab00328ea9d06d77ab778",
+            "Name_tag": "AfroDex: Genesis"
+        },
+        {
+            "Address": "0xb5adb233f28c86cef693451b67e1f2d41da97d21",
+            "Name_tag": "Bitox.io"
+        },
+        {
+            "Address": "0x3b7e71a9f15eebb541c82f88ef020ae7040484f1",
+            "Name_tag": "Bitpie: Batch Sender v2"
+        },
+        {
+            "Address": "0x0105a3bb58793a8514de8aa6bfdff33cad219186",
+            "Name_tag": "BlackFort Wallet: BXF Distribution"
+        },
+        {
+            "Address": "0xd1917932a7db6af687b523d5db5d7f5c2734763f",
+            "Name_tag": "Bulksender.app"
+        },
+        {
+            "Address": "0x7e760ad2a3e901bf034daa53222286524a4fbcf6",
+            "Name_tag": "CoinMarketFeed: Airdrop & Liquidity"
+        },
+        {
+            "Address": "0xcec8f07014d889442d7cf3b477b8f72f8179ea09",
+            "Name_tag": "CoinTool: MultiSender"
+        },
+        {
+            "Address": "0x87d6180b65ad76a9443064dcd1596388fcc3ee2a",
+            "Name_tag": "DAppNode: NODE Airdrop"
+        },
+        {
+            "Address": "0x639192d54431f8c816368d3fb4107bc168d0e871",
+            "Name_tag": "dYdX: DYDX Distributor"
+        },
+        {
+            "Address": "0xcf6cc4dddad0924e0b55a394cfb4c442822f6311",
+            "Name_tag": "Exnce: Airdrop Distributor"
+        },
+        {
+            "Address": "0x51f43d0c05eefdeb70eeaf973e0b8286e494902d",
+            "Name_tag": "Exsender"
+        },
+        {
+            "Address": "0xb2feda42cebd9ae02b6c20066e69dd11559a09d1",
+            "Name_tag": "FreelancerChain: Airdrop"
+        },
+        {
+            "Address": "0x04dfdfa471b79cc9e6e8c355e6c71f8ec4916c50",
+            "Name_tag": "mStable: Rewards Distributor"
+        },
+        {
+            "Address": "0x9ab62dc4d7de3c9b2399f74de7613bb0b98a02f9",
+            "Name_tag": "Multisender.app: NFT Old"
+        },
+        {
+            "Address": "0xa5025faba6e70b84f74e9b1113e5f7f4e7f4859f",
+            "Name_tag": "Multisender.app: Old Contract"
+        },
+        {
+            "Address": "0x4c20cdadbcae364edc03e2b90f09eb97d08ce3c8",
+            "Name_tag": "ShapeShift: FOX Airdrop"
+        },
+        {
+            "Address": "0x5474b3abf3e58a2b32f329f3633406a0d2941e6f",
+            "Name_tag": "SuperRare: RARE Airdrop"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "AccountsAsset Management",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x9cbee565f4da8b044a05f1135f2b9be768db855e",
+            "Name_tag": "Panda.BTM1: Hot Wallet"
+        },
+        {
+            "Address": "0xc1adda7605d2dc47dd91a930c978cd6a18d2d760",
+            "Name_tag": "RigoBlock: Governance Factory"
+        },
+        {
+            "Address": "0xe5d8204f8335e9786ea7ce382771b865fe73a304",
+            "Name_tag": "RigoBlock: Governance Implementation"
+        },
+        {
+            "Address": "0x6e1423cb6b0b72316f051fbc3b6bc54ed5e584dc",
+            "Name_tag": "RigoBlock: Governance Strategy"
+        }
+    ]
+}

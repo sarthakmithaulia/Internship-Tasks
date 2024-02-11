@@ -1,0 +1,108 @@
+{
+    "name": "AccountsAugmented Finance",
+    "Main": 50,
+    "Others": 1,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
+            "Name_tag": "Augmented Finance Token: AGF Token"
+        },
+        {
+            "Address": "0x7592c85e1b0c652735264f3b59eda9fc4a8f727b",
+            "Name_tag": "Augmented Finance: Addresses Provider Registry"
+        },
+        {
+            "Address": "0x3c6de73585586c919f533717d28f8259d2fc7207",
+            "Name_tag": "Augmented Finance: agvUSDC Borrow Variable Rate"
+        },
+        {
+            "Address": "0x8c44f8e4b360a3dbd7fc5ee7136922efc0c155d6",
+            "Name_tag": "Augmented Finance: agvUSDT Borrow Variable Rate"
+        },
+        {
+            "Address": "0x14972103a5f5f41c099aa85457f61d7ddf3908b5",
+            "Name_tag": "Augmented Finance: agvWBTC Borrow Variable Rate"
+        },
+        {
+            "Address": "0x0b5b915c7e2aa392e59717c0a63d3d42d4a9f112",
+            "Name_tag": "Augmented Finance: agvWETH Borrow Variable Rate"
+        },
+        {
+            "Address": "0x9276635ec39c72866f3cf70298efe501eb5dcdf1",
+            "Name_tag": "Augmented Finance: Lending Pool"
+        },
+        {
+            "Address": "0x9f60c2b23ff29610318cbc9386c22def81d773db",
+            "Name_tag": "Augmented Finance: Lending Pool Configurator"
+        },
+        {
+            "Address": "0xe6a15b35daf7b07fc1c2340e87ba8bb3907875b7",
+            "Name_tag": "Augmented Finance: Lending Rate Oracle"
+        },
+        {
+            "Address": "0xc6f769a0c46cffa57d91e87ed3bc0cd338ce6361",
+            "Name_tag": "Augmented Finance: Market Access Controller"
+        },
+        {
+            "Address": "0xfe1fc5b9689a71f6d83b28710bf331b57a5d0590",
+            "Name_tag": "Augmented Finance: Oracle Router"
+        },
+        {
+            "Address": "0xd25c4a0b0c088dc8d501e4292cf28da6829023c0",
+            "Name_tag": "Augmented Finance: Protocol Data Provider"
+        },
+        {
+            "Address": "0x9c4479864632456298fd80faec4b0ba94d5e42f0",
+            "Name_tag": "Augmented Finance: Referral Registry"
+        },
+        {
+            "Address": "0xd5fc057194472d82e515ccacee976625ca9bde90",
+            "Name_tag": "Augmented Finance: Reward controller"
+        },
+        {
+            "Address": "0x774961cce0a8053fbf5b745231dab2878887c395",
+            "Name_tag": "Augmented Finance: Stable Debt DAI"
+        },
+        {
+            "Address": "0xf7433a50b136ad4a57d6fce5cd949ed4a3d5d033",
+            "Name_tag": "Augmented Finance: Stable Debt USDC"
+        },
+        {
+            "Address": "0x01455b220a79d8295455b72f70f910d44f747a1d",
+            "Name_tag": "Augmented Finance: Stable Debt USDT"
+        },
+        {
+            "Address": "0xfaaf18e9fe739cdf5230b37cf3692b1909fcf6da",
+            "Name_tag": "Augmented Finance: Stable Debt WBTC"
+        },
+        {
+            "Address": "0x14aa3f35e5167d774416eb3353812c4827a0f387",
+            "Name_tag": "Augmented Finance: Stable Debt WETH"
+        },
+        {
+            "Address": "0xf9fcb157f2f86a34762d42c4685d4d010f02226e",
+            "Name_tag": "Augmented Finance: Stake configurator"
+        },
+        {
+            "Address": "0x039b8f6c4ab5d61f6f656730ef95abe9875e4567",
+            "Name_tag": "Augmented Finance: Stake Uni v2 AGF-ETH"
+        },
+        {
+            "Address": "0x48c51152929e035b1fb4bc10a1a2a07363e5f42c",
+            "Name_tag": "Augmented Finance: Stake Uni v2 AGF-ETH 2"
+        },
+        {
+            "Address": "0x0c0d37e12583bb752a9670266df707b7a1e4e014",
+            "Name_tag": "Augmented Finance: Stake USDC"
+        },
+        {
+            "Address": "0xeedc7c75974f73355c84933b6ecf97f29c35e881",
+            "Name_tag": "Augmented Finance: Stake USDT"
+        },
+        {
+            "Address": "0x04c7966aac97e04deaa3b592cd3399a38dd5d5fc",
+            "Name_tag": "Augmented Finance: Stake WBTC"
+        }
+    ]
+}

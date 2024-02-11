@@ -1,0 +1,108 @@
+{
+    "name": "AccountsARCx",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x1debbc50322150eb44de3b663d5faa89c12b07ff",
+            "Name_tag": "ARCx: ARCx Emissions Distributor"
+        },
+        {
+            "Address": "0xc434c28da5940462213c0057660a7132337205c1",
+            "Name_tag": "ARCx: ARCx Guardian DAO"
+        },
+        {
+            "Address": "0x859a95b2b50c1fc25560a2c6dad5b3d0ba34b6e9",
+            "Name_tag": "ARCx: ARCx Protocol DAO"
+        },
+        {
+            "Address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+            "Name_tag": "ARCx: ARCx Token"
+        },
+        {
+            "Address": "0x4317d259fcce32ebbb508c27b12f4afaca074ae3",
+            "Name_tag": "ARCx: ARCx Treasury DAO"
+        },
+        {
+            "Address": "0x84ead9ce2e36b3e6cdf41c94d5397e5056b3d8d6",
+            "Name_tag": "ARCx: cUSDC-STABLEx-CoreProxy"
+        },
+        {
+            "Address": "0xd1902581868163bef61776cfd27228ee5074be8f",
+            "Name_tag": "ARCx: Farm 1"
+        },
+        {
+            "Address": "0xa9a9300ab9a70c43c19d6f42e3308be24d73d885",
+            "Name_tag": "ARCx: Farm 2"
+        },
+        {
+            "Address": "0x580836540ca183ab71aa4c58253f5eeaad2552dc",
+            "Name_tag": "ARCx: Farm 2.1"
+        },
+        {
+            "Address": "0x38b25c0a9e61e226023b700ce4a6a4134ecaeedf",
+            "Name_tag": "ARCx: Farm 3"
+        },
+        {
+            "Address": "0x8016f490d76346ebec91707fd4fb56a7fe64f694",
+            "Name_tag": "ARCx: Farm 4"
+        },
+        {
+            "Address": "0xd41a21f6a3debfe28b06ace2312a69c53107cee5",
+            "Name_tag": "ARCx: Farm 5"
+        },
+        {
+            "Address": "0x1960afc89ff98f4ee64d29a5082eb5002b376e35",
+            "Name_tag": "ARCx: Farm 6"
+        },
+        {
+            "Address": "0xa85333da5e5a48498f0a65a1a6521e0ceadd3efd",
+            "Name_tag": "ARCx: Farm 6.1"
+        },
+        {
+            "Address": "0x8f1155447ee97b5ae147a01a5c420b0fddf0370d",
+            "Name_tag": "ARCx: Farm 7"
+        },
+        {
+            "Address": "0x3043b623632ff1ac88b3a17113e39c0b964381c5",
+            "Name_tag": "ARCx: Farm 8"
+        },
+        {
+            "Address": "0xab0bca3ff56d891cc8b22a5d9705f7088ce3bf3b",
+            "Name_tag": "ARCx: Farm 9"
+        },
+        {
+            "Address": "0x81f16e6b58738daaa4c5d493a240cca49c240f04",
+            "Name_tag": "ARCx: ibETH-STABLEx-CoreProxy"
+        },
+        {
+            "Address": "0x066b7660b2003793fb2ffd0b8152158c016fbfef",
+            "Name_tag": "ARCx: imUSD-STABLEx-CoreProxy"
+        },
+        {
+            "Address": "0xed30dd7e50edf3581ad970efc5d9379ce2614adb",
+            "Name_tag": "ARCx: Old ARCx Token"
+        },
+        {
+            "Address": "0xcd91538b91b4ba7797d39a2f66e63810b50a33d0",
+            "Name_tag": "ARCx: STABLEx Token"
+        },
+        {
+            "Address": "0x3252efd4ea2d6c78091a1f43982ee2c3659cc3d1",
+            "Name_tag": "ARCx: STABLEx-3CRV-f-2"
+        },
+        {
+            "Address": "0xeb739e889e74383562695d94c495f5f69f9e2559",
+            "Name_tag": "ARCx: SynthRegistryV2"
+        },
+        {
+            "Address": "0x562423f830582b6f704e175c439e132e59058284",
+            "Name_tag": "ARCx: TokenClaim"
+        },
+        {
+            "Address": "0x2d6c5b9ff886bb4eefed33b2065366f4caa0e6fe",
+            "Name_tag": "ARCx: WhitelistSale-Phase1"
+        }
+    ]
+}

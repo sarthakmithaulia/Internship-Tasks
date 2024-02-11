@@ -1,0 +1,28 @@
+{
+    "name": "AccountsAmpleforth",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+            "Name_tag": "Ampleforth: AMPL Token"
+        },
+        {
+            "Address": "0xf0d611b2610352600f7055e418e547e1c956c046",
+            "Name_tag": "Ampleforth: Ecosystem Fund"
+        },
+        {
+            "Address": "0xbdb30cf89efdd8c7410d9b3d0de04bc41b962770",
+            "Name_tag": "Ampleforth: Employee & Advisor Pool"
+        },
+        {
+            "Address": "0x89fe954538a92eca58adaec339ca6374af079a13",
+            "Name_tag": "Ampleforth: Investor Pool"
+        },
+        {
+            "Address": "0xb22ed4bec314d475a8782e0b6869f0144d46859c",
+            "Name_tag": "Ampleforth: Treasury"
+        }
+    ]
+}
