@@ -1,0 +1,16 @@
+{
+    "name": "AccountsBitMEX",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xeea81c4416d71cef071224611359f6f99a4c4294",
+            "Name_tag": "BitMEX 1"
+        },
+        {
+            "Address": "0xfb8131c260749c7835a08ccbdb64728de432858e",
+            "Name_tag": "BitMEX 2"
+        }
+    ]
+}

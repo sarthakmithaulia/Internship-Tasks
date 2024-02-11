@@ -1,0 +1,108 @@
+{
+    "name": "AccountsBancor",
+    "Main": 773,
+    "Others": 310,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x7537b8914d96f44c58d700e6be6b97be05afb3df",
+            "Name_tag": "Bancor Network: bnDUSK Token"
+        },
+        {
+            "Address": "0xa0b0f11d342fa5f6c5ed54a9a14013b498f2dc99",
+            "Name_tag": "Bancor Network: bnDXD Token"
+        },
+        {
+            "Address": "0xbb200f245d8e8a29ddf9b3899c29ebea565852a9",
+            "Name_tag": "Bancor Network: bnDYDX Token"
+        },
+        {
+            "Address": "0x3ed1907d74d083a9213497a14329a82ff5d2cfeb",
+            "Name_tag": "Bancor Network: bnEDEN Token"
+        },
+        {
+            "Address": "0x46336156b4f150ef21d01a052cf8017b9d6ed965",
+            "Name_tag": "Bancor Network: bnELF Token"
+        },
+        {
+            "Address": "0x9250fd963a7c7d23a1e5ca9ade6c43cf5e846b20",
+            "Name_tag": "Bancor Network: bnENJ Token"
+        },
+        {
+            "Address": "0xe875c8b32c0187598a62091f8262a2bf2973c85b",
+            "Name_tag": "Bancor Network: bnENS Token"
+        },
+        {
+            "Address": "0x4e96c8a57bcdf31d9c89b3dc9ada6809050863d1",
+            "Name_tag": "Bancor Network: bneRSDL Token"
+        },
+        {
+            "Address": "0xf83d4d92ca8f75a7dee85e6434a2e231f23261fd",
+            "Name_tag": "Bancor Network: bnEWTB Token"
+        },
+        {
+            "Address": "0x4e9a47aa88dea5902001748a21869de19992643e",
+            "Name_tag": "Bancor Network: bnFARM Token"
+        },
+        {
+            "Address": "0xc2409e2562003254034630f80127703bec977685",
+            "Name_tag": "Bancor Network: bnFODL Token"
+        },
+        {
+            "Address": "0x8a8cf4809155f260c6af61aa8cfe8b55789cf94d",
+            "Name_tag": "Bancor Network: bnFOX Token"
+        },
+        {
+            "Address": "0x261191f870f8e6b3c433c9705d99f32b1692a063",
+            "Name_tag": "Bancor Network: bnFRM Token"
+        },
+        {
+            "Address": "0xf0d74eaa60466112c9e496ad0ba47efbcbc8b568",
+            "Name_tag": "Bancor Network: bnFTT Token"
+        },
+        {
+            "Address": "0xad6dd99514366c1a1388a104861848b2971eeebe",
+            "Name_tag": "Bancor Network: bnFXS Token"
+        },
+        {
+            "Address": "0x79a000c4ad48cbe047efe319a7e2849b66ee1fb3",
+            "Name_tag": "Bancor Network: bnGNO Token"
+        },
+        {
+            "Address": "0x0c39c7f6b24ed0e30b453b83cf5d4cf2c5bd3a9e",
+            "Name_tag": "Bancor Network: bnGRT Token"
+        },
+        {
+            "Address": "0xe135d86fac3838bb47690cc2d913b1264e9a3a57",
+            "Name_tag": "Bancor Network: bnGTC Token"
+        },
+        {
+            "Address": "0xb01bb3d358e50c8e2016f85e4935bc4d1273c483",
+            "Name_tag": "Bancor Network: bnGUSD Token"
+        },
+        {
+            "Address": "0x5f2e01fb817ba54cb3df96d8c9be51071f3f7dfc",
+            "Name_tag": "Bancor Network: bnHEGIC Token"
+        },
+        {
+            "Address": "0x70a7e8c220aafd32ad280d6f666b9ffdf10fbb1e",
+            "Name_tag": "Bancor Network: bnHOT Token"
+        },
+        {
+            "Address": "0x402985c23aa04db5b5eda40e53dc3fb55679e56a",
+            "Name_tag": "Bancor Network: bnHY Token"
+        },
+        {
+            "Address": "0x36fabe4caef8c190550b6f93c306a5644e7dcef6",
+            "Name_tag": "Bancor Network: bnICHI Token"
+        },
+        {
+            "Address": "0x700616e07ed859231562304a5eb58b498e231b43",
+            "Name_tag": "Bancor Network: bnIDLE Token"
+        },
+        {
+            "Address": "0x1cb8630bbb5d3d693a208d45c450dd6ea56c0d42",
+            "Name_tag": "Bancor Network: bnINDEX Token"
+        }
+    ]
+}

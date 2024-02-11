@@ -1,0 +1,108 @@
+{
+    "name": "AccountsBalancer",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xcbc50d87dd3bca8148d36c59aaf7130937b73e33",
+            "Name_tag": "Balancer: $BASED/FARM 90/10"
+        },
+        {
+            "Address": "0xb6ccab4082be3aeff751d014000f3d70f73816e7",
+            "Name_tag": "Balancer: $BASED/WEV 98/2"
+        },
+        {
+            "Address": "0x224e906efe965dbe8ceb71e3cf1d5536c9ce196d",
+            "Name_tag": "Balancer: $MULAN/ETH 95/5"
+        },
+        {
+            "Address": "0x9c1b855a9cd2d6232a6debd6f8b431c19a54c14e",
+            "Name_tag": "Balancer: 0xBTC/DUST 10/90"
+        },
+        {
+            "Address": "0x2b36d183be387ca2cf81b63efdddb030f3a643eb",
+            "Name_tag": "Balancer: 0xBTC/DUST 2/98"
+        },
+        {
+            "Address": "0xdbcd8b30ec1c4b136e740c147112f39d41a10166",
+            "Name_tag": "Balancer: 0xBTC/ETH 50/50"
+        },
+        {
+            "Address": "0x2eefe2d42ccecd9980349c2189ddbfa9a47935af",
+            "Name_tag": "Balancer: 0xBTC/ETH 50/50 #2"
+        },
+        {
+            "Address": "0xb3f89ed60d5fb8dfec5819444f5cea79abf5d6f6",
+            "Name_tag": "Balancer: 0xBTC/ETH/WBTC 60/20/20"
+        },
+        {
+            "Address": "0xd5e10e8513e33a2867e20ddfc35ee081cba57769",
+            "Name_tag": "Balancer: 0xMR/0xBTC 20/80 #2"
+        },
+        {
+            "Address": "0xfa3c06c8974afadabac543f359034129e50d91ce",
+            "Name_tag": "Balancer: 0xMR/ETH/DAI 34/33/33 #2"
+        },
+        {
+            "Address": "0x1b4a4001037363e9dc61c17fab73c9ff56a37dd9",
+            "Name_tag": "Balancer: 300/ETH 98/2"
+        },
+        {
+            "Address": "0x440a4816eeac25cfb949d1f9450ac1a2923c4834",
+            "Name_tag": "Balancer: AAVE/ETH 50/50"
+        },
+        {
+            "Address": "0xd9346ab5a2ed5e32f5fc69a5cccf45211307ffc5",
+            "Name_tag": "Balancer: AAVE/ETH/xAAVEb 25/25/50"
+        },
+        {
+            "Address": "0xfdda23ac2306c144ce65e864c5e14e030cd50795",
+            "Name_tag": "Balancer: AAVE/UNI 60/40"
+        },
+        {
+            "Address": "0xbb3eb99a93b19e067251fb1c4a2fb048a1ed0a6c",
+            "Name_tag": "Balancer: AAVE/UNI 75/25"
+        },
+        {
+            "Address": "0xc93525d9662aac00f5963f8f8af0142a9ff7a1f8",
+            "Name_tag": "Balancer: AAVE/UNI 80/20"
+        },
+        {
+            "Address": "0x3895bd6a41c914111c8e1bbbd0c351e43190bd7f",
+            "Name_tag": "Balancer: AAVE/USDC/DAI 50/25/25"
+        },
+        {
+            "Address": "0x2ec1597230ad9960ad851fc6d4de1e3c186c5c43",
+            "Name_tag": "Balancer: ABYSS/USDC 90/10"
+        },
+        {
+            "Address": "0x8372b43a3d2d39d00d8f66d7f98e51e6d0d7da25",
+            "Name_tag": "Balancer: aDAI/aBUSD 50/50 #2"
+        },
+        {
+            "Address": "0x22fc0ce06aa12d53a34ff38c3eae71868ec78b8e",
+            "Name_tag": "Balancer: aDAI/aLEND 50/50 #2"
+        },
+        {
+            "Address": "0x3e6ec9946d8464a739789497eddc78c653eab5a3",
+            "Name_tag": "Balancer: aDAI/aUSDC 50/50 #2"
+        },
+        {
+            "Address": "0xf339a90f767a8bd69748dedb17fa93aa4825c3f4",
+            "Name_tag": "Balancer: aDAI/aUSDC 50/50 #3"
+        },
+        {
+            "Address": "0x921b08eb2ea560a4b46207d4ecde1e20fb177128",
+            "Name_tag": "Balancer: aDAI/cDAI/DAI/COMP/ETH 35/35/10/10/10"
+        },
+        {
+            "Address": "0xd51cdcdfd2a75c9b163d73abe94984ef1eadfbd7",
+            "Name_tag": "Balancer: aDAI/cDAI/DyDAI 33.33/33.33/33.33 #2"
+        },
+        {
+            "Address": "0x7ef2c76430b2e450ba0b7c56b7fd5ca32530753e",
+            "Name_tag": "Balancer: aDAI/DAI 50/50 #2"
+        }
+    ]
+}

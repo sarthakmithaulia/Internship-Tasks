@@ -1,0 +1,24 @@
+{
+    "name": "AccountsBitcoinSoV",
+    "Main": 4,
+    "Others": 1,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
+            "Name_tag": "BitcoinSoV: BSOV Token"
+        },
+        {
+            "Address": "0x19e6bf254abf5abc925ad72d32bac44c6c03d3a4",
+            "Name_tag": "BitcoinSoV: Time Lock Contract"
+        },
+        {
+            "Address": "0xabb58af7e64eb324895cb1c15c1865bb125e953f",
+            "Name_tag": "BSoV Pool: Minting"
+        },
+        {
+            "Address": "0xde0d47fa92b4d616b100f5dd027fc91704b24b73",
+            "Name_tag": "BSoV Pool: Payments"
+        }
+    ]
+}

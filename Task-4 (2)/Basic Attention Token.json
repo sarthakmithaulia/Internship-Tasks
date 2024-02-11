@@ -1,0 +1,28 @@
+{
+    "name": "AccountsBasic Attention Token",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+            "Name_tag": "Basic Attention: BAT Token"
+        },
+        {
+            "Address": "0x3095a47305efd248f6ce272c2db01297a91e8c41",
+            "Name_tag": "BAT: Deployer"
+        },
+        {
+            "Address": "0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b",
+            "Name_tag": "BAT: Team Lockup"
+        },
+        {
+            "Address": "0x7c31560552170ce96c4a7b018e93cddc19dc61b6",
+            "Name_tag": "BAT: UGP Reserve"
+        },
+        {
+            "Address": "0x44fcfabfbe32024a01b778c025d70498382cced0",
+            "Name_tag": "BAT: Wallet"
+        }
+    ]
+}

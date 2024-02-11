@@ -1,0 +1,24 @@
+{
+    "name": "AccountsBloom",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xceec7aaa57e3a77c73a9954b9b7d5b32ab688318",
+            "Name_tag": "Bloom: Attestation Logic"
+        },
+        {
+            "Address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+            "Name_tag": "Bloom: BLT Token"
+        },
+        {
+            "Address": "0x9d217bcbd0bfae4d7f8f12c7702108d162e3ab79",
+            "Name_tag": "Bloom: MultiSig"
+        },
+        {
+            "Address": "0xb547cc51ce58293e6945ba08d664ce051563d9ac",
+            "Name_tag": "Bloom: Token Sale"
+        }
+    ]
+}

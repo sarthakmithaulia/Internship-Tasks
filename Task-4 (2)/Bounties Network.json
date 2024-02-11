@@ -1,0 +1,16 @@
+{
+    "name": "AccountsBounties Network",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x2af47a65da8cd66729b4209c22017d6a5c2d2400",
+            "Name_tag": "BountiesNetwork V1"
+        },
+        {
+            "Address": "0xe7f69ea2a79521136ee0bf3c50f6b5f1ea0ab0cd",
+            "Name_tag": "BountiesNetwork V2"
+        }
+    ]
+}

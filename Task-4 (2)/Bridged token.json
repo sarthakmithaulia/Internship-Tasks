@@ -1,0 +1,108 @@
+{
+    "name": "AccountsBridged Token",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0xdf200ee0c427e7ed5b7a8820a97bf50d2a443ba8",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x953ecfbc71f3ea04ed36da30e8e39ea90d6e8b34",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xdfe0be0e9a8fffa68448b991d0c99a59780ef179",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x7112bb03d5044ae2068f97b3803930892f55f0b7",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x967156a43421732d351c05f4908db79b2ad1b82a",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xe1470ea86d4a0bb1e6d7613daa6fde82c8fbf772",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x72ffde93eb16067474ad5e756a0667082441cfed",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x9721cb5f9edeb93b016cc2d5aba45691e8b6f618",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xe1691c7ef3197a9d515aa67f1e237de06f39d934",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x742fcf75e58d8ac5c0e2dd76aae75fffeeacb079",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x97f45d9ba82c435db81a59ced9b8b7fe552409c6",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x770241c7b2793512c64aae8d9a100699feb615e5",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x7842711d7ee7d8bb2d165e9dce4dd7b91a0244c3",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x8544008ea012f4ecfd68c1704afb6f88ea3a4755",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x78bf7c4b653d80ca3a1aa878827bf1a240e53c43",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xd6dc49a1d1e71e27f8d7ef67f3e984200adc472f",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x79dbe8c482e2fdab1d1874560a9ba60161c7561d",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xd8066daafafcfc8e547e1124f3d2914c4321a88d",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x869c106c5efe104247777e2675dab511121388ab",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x7b15e1c4d14582ada88f29db35476c4f09b22310",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xd8a5526b254aee82171714c84314daf1ead2e480",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x887fe928645020db1ec4af4aa922c2327f96f90f",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x7c6ec5515f3f9b044e1e3c4d68b434141a9e4bd2",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0xd91881f25f45b3fc2918c3e5177c862550b63ea4",
+            "Name_tag": ""
+        },
+        {
+            "Address": "0x8a9de45cef6a621196af32ee32ca4e4ede365e22",
+            "Name_tag": ""
+        }
+    ]
+}

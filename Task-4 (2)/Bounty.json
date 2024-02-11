@@ -1,0 +1,20 @@
+{
+    "name": "AccountsBounty",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x6631625a68b08e0fdf605c354ff0e710a0176c84",
+            "Name_tag": "AfroDex: CrowdSend"
+        },
+        {
+            "Address": "0xe7f69ea2a79521136ee0bf3c50f6b5f1ea0ab0cd",
+            "Name_tag": "BountiesNetwork V2"
+        },
+        {
+            "Address": "0x133758aa37f733fe490a5b5a3907bb67220e58db",
+            "Name_tag": "Fidenza Bounty: 0x133...8db"
+        }
+    ]
+}

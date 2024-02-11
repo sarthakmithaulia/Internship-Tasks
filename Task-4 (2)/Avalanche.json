@@ -1,0 +1,28 @@
+{
+    "name": "AccountsAvalanche",
+    "Main": null,
+    "Others": null,
+    "Legacy": null,
+    "subhead": [
+        {
+            "Address": "0x7c84124f0f7ff8adfab6c4c51ebc09c439ca91c1",
+            "Name_tag": "AVA Labs: Payment Master"
+        },
+        {
+            "Address": "0xb3ee3fb3f8c856adf9ce64ad691469ba533f5a37",
+            "Name_tag": "AVA Labs: Wallet"
+        },
+        {
+            "Address": "0xdac7bb7ce4ff441a235f08408e632fa1d799a147",
+            "Name_tag": "Avalanche: Avalanche-Ethereum Bridge"
+        },
+        {
+            "Address": "0x8eb8a3b98659cce290402893d0123abb75e3ab28",
+            "Name_tag": "Avalanche: Bridge"
+        },
+        {
+            "Address": "0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0",
+            "Name_tag": "Avalanche: Old Bridge"
+        }
+    ]
+}
